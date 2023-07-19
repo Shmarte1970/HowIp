@@ -39,7 +39,7 @@ public class HowIP {
                 
                 // Ruta del archivo
                 
-                String rutaArchivo = "historialIP.txt";
+                String rutaArchivo = "./file/historialIP.txt";
                 
                 // Escritura del Archivo
                 
